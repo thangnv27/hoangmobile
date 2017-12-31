@@ -1,0 +1,11 @@
+/*Default style of wordpress*/
+
+.alignleft{float: left; margin-right: 5px; margin-bottom: 5px;}
+.aligncenter{/*display: block;*/ display: table-caption; margin-left: auto; margin-right: auto;}
+.alignright{float: right; margin-left: 5px; margin-bottom: 5px;}
+
+.wp-caption { background-color: #F3F3F3; border: 1px solid #DDDDDD; border-radius: 3px 3px 3px 3px; margin: 10px 0; padding-top: 4px; text-align: center; }
+.wp-caption img {border: 0 none;margin: 0;padding: 0;}
+.wp-caption-dt{}
+.wp-caption-dd {font-size: 11px;line-height: 17px;margin: 0;padding: 0 4px 5px;}
+

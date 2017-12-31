@@ -1,0 +1,209 @@
+.input{border: 1px solid #d0d0d0; font-size: 12px; font-family: "Roboto Condensed", sans-serif; padding: 3px;}
+.warning{font-size: 13px; font-family: "Roboto Condensed", sans-serif; color: red;}
+.success{font-size: 13px; font-family: "Roboto Condensed", sans-serif; color: green;}
+
+.social_login{width: 348px;}
+/*.social_login .facebook{background: #1d5083 url(images/icons/fb.jpg) no-repeat left center; padding: 10.5px 0;}*/
+.social_login .facebook{background: #1d5083; height: 50px;}
+.social_login .facebook:hover{opacity: 0.9;}
+/*.social_login .fblogin a{color: #fff; font:lighter 22px "Roboto Condensed"; padding: 10px 65px;}
+.social_login .fbsignup a{color: #fff; font:lighter 22px "Roboto Condensed"; padding: 10px 76px;}*/
+
+/*=================MENU CATALOG=====*/
+.leftMenu{background:url("images/leftMenuBg.png") repeat-y scroll 0 0 transparent;float:left;padding-top:0px;margin-top:0px;width:200px}
+.leftMenuBgBottom{background:url(images/leftMenuBgBottom.png) no-repeat;width:200px;height:19px}
+ul.ur{border-top:medium none;list-style-type:none;margin:0;padding:0;font-weight:bold;margin-left:15px;text-align:left;font-size:13px}
+ul.ur > li.menu-item{border-bottom:1px solid #CECECE;display:block;height:39px;line-height:33px;padding-left:1px;}
+ul.ur > li > ul.sub-menu{
+    background: #FFFFFF;
+    display: none; min-width: 200px;
+    left: 200px; margin-top: -33px; padding: 0 15px;
+    position: absolute;
+    z-index: 1000; box-shadow:9px 8px 14px -7px #999;
+    border-bottom:1px solid #CECECE;border-radius:0 5px 5px 0;border-right:1px solid #CECECE;border-top:1px solid #CECECE;
+}
+ul.ur > li:hover > ul.sub-menu{display: block;}
+ul.ur li.menu-item a{cursor:pointer;font-family:Arial,Helvetica,sans-serif;font-weight:bold;text-decoration:none;color:#373737;}
+ul.ur li a:hover{color:#d41212;}
+/*=============End catalog==========*/
+
+.is_flagged {display: block;height: 36px;position: absolute;max-width: 67px;}
+.is_flagged img{max-height: 36px;}
+
+.tabCol{float:left;width:100% !important}
+.tabBg{background:url(images/tabBg.png) repeat-x;}
+.tabBg ul.ui-tabs-nav{margin: 0; padding: 0; overflow: hidden; height:54px;}
+.tabBg ul.ui-tabs-nav li{
+    list-style: none; float: left;
+    background:url(images/tabNonSelected.png) no-repeat;
+    width:146px;height:21px;float:left;font-weight:bold;text-align:center;padding-top:33px
+}
+.tabBg ul.ui-tabs-nav li.ui-tabs-active{
+    background:url("images/tabSelected.png") no-repeat;
+    float:left;font-weight:bold;height:21px;padding-top:33px;text-align:center;width:146px
+}
+.tabBg ul.ui-tabs-nav li a{color: #373737;}
+
+ul.wp-stats{margin: 0;}
+ul.wp-stats li{padding: 5px 0;}
+
+.box-support p{margin: 0 0 5px;}
+
+.enquiry{width:477px;height:100px;margin-top:5px;}
+.google-maps iframe{width: 480px; height: 480px;}
+
+/*san pham km dac biet*/
+.board {}
+.lbl-promotion {
+    height: 33px;
+    margin-top: 12px;
+    width: 1020px;
+    background: url("images/quickSearchBg.png") no-repeat 0 0;
+    border-bottom: 1px solid #c7c7c7;
+}
+.lbl-promotion h2.lable {
+    color: #545454;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 10px;
+    text-indent: 20px;
+    text-transform: uppercase;
+    word-spacing: -1px;
+    margin: 0;
+}
+.bound-promotion {
+    overflow: hidden;
+    height: 200px;
+    padding: 5px 10px;
+    width: 998px;
+    border-left: 1px solid #c7c7c7; border-right: 1px solid #c7c7c7;
+}
+.bound-promotion .image-slide {
+    float: left;
+    width: 144px;
+}
+.bound-promotion .brief-slide {
+    float: right;
+    width: 170px;
+}
+.bound-promotion .brief-slide h3{margin: 0 0 10px;}
+.bound-promotion .brief-slide p{margin: 0 0 5px;}
+.bound-promotion .name a {
+    color: #373737;
+    font-weight: bold;
+    text-decoration: none;
+}
+.bound-promotion .name a:hover {
+    text-decoration: underline;
+}
+.bound-promotion .info-brief {
+    color: #82878B;
+    font-size: 12px;
+    line-height: 20px;
+    margin: 0;
+}
+.bound-promotion .inventory {
+    color: #7CA50D;
+    font-size: 11px;
+    margin: 0;
+    padding: 2px 0;
+}
+.bound-promotion .oldprice {
+    font-size: 13px; font-weight: bold; color: #989898;
+    margin: 0; padding: 7px 0 5px;
+    text-transform: uppercase; text-decoration: line-through;
+}
+.bound-promotion .price {
+    color: #D41212;
+    font-size: 13px; font-weight: bold;
+    margin: 0; padding: 7px 0 5px;
+    text-transform: uppercase;
+}
+.promotion-bottom {
+    background: url("images/quickSearchBg.png") no-repeat 0 -18px;
+    height: 33px; width: 1020px;
+    text-align: center;
+    border-top: 1px solid #c7c7c7;
+    font-size: 16px !important;
+    color: red;
+}
+
+/*404 ####################*/
+.page-404{width: 680px; margin: auto; margin: 50px auto;overflow: hidden;}
+.page-404 img{ float: left;}
+.page-404 p{
+    width: 350px;
+    margin: 0; padding: 0;
+    float: right;
+    font: 24px Helvetica;
+}
+.page-404 p a{
+    font: bold 24px Helvetica;
+}
+
+/*Ty gia*/
+.tygia{
+    margin-top: 20px;
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 10px; 
+    color: #765639; 
+}
+
+.tygia .block_green1 {
+    background-color: #fdfffa;
+    background-image: url(images/topbg_green1.gif);
+    background-repeat: repeat-x;
+    border: 1px solid #b9d1ab;
+}
+.tygia .block_blue1 {
+    background-color: #f9ffff;
+    background-image: url(images/topbg_blue1.gif);
+    background-repeat: repeat-x;
+    border: 1px solid #78afd0;
+}
+.tygia .redtitle {
+    font-weight: bold;
+    color: #a34a08;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+}
+
+/*Ad floating*/
+div#fl813691 {overflow:hidden; background: #ffffff; z-index: 999;
+              top:expression(eval(document.compatMode &&
+                  document.compatMode=='CSS1Compat') ?
+                  documentElement.scrollTop
+                  +(documentElement.clientHeight-this.clientHeight)
+                  : document.body.scrollTop
+                  +(document.body.clientHeight-this.clientHeight));}
+#fl813691{font: 12px Arial, Helvetica, sans-serif; color:#666; position:fixed; _position: absolute; right:0; bottom:0;  }
+#eb951855{ min-width:160px; padding-right:7px; background:url(images/khungquangcao/fullborder_bg_right.gif) no-repeat right top;}
+#cob263512{background:url(images/khungquangcao/fullborder_bg.gif) no-repeat left top; padding-left:7px;}
+#coh963846{color:#690;display:block; height:20px; line-height:20px; font-size:11px; }
+#coh963846 a{color:#690;text-decoration:none;}
+#coc67178{float:right; padding:0; margin:0; list-style:none; overflow:hidden; height:15px;}
+#coc67178 li{display:inline;}
+#coc67178 li a{background-image:url(images/khungquangcao/button.gif); background-repeat:no-repeat; width:30px; height:0; padding-top:15px; overflow:hidden; float:left;}
+#coc67178 li a.close{background-position: 0 0;}
+#coc67178 li a.close:hover{background-position: 0 -15px;}
+#coc67178 li a.min{background-position: -30px 0;}
+#coc67178 li a.min:hover{background-position: -30px -15px;}
+#coc67178 li a.max{background-position: -60px 0;}
+#coc67178 li a.max:hover{background-position: -60px -15px;}
+#co453569{display:block; margin:0; padding:0; border-style:solid; border-width:1px; border-color:#111 #999 #999 #111; line-height:1.6em; overflow:hidden;}
+
+/*Message floating*/
+.message_floating_popup{border: 1px solid #ccc; padding: 2px 10px 10px;background: #ffffff; position: fixed;bottom: 0;left: 0;z-index: 999;}
+.message_floating_popup .head{width: 100%; height: 25px;border-bottom: 1px solid #bebebe;}
+.message_floating_popup .head #min_max{float: right; width: 24px; height: 25px; cursor: pointer;}
+.message_floating_popup .head #min_max.min{background: url(images/minimize.png) no-repeat 0 0;}
+.message_floating_popup .head #min_max.max{background: url(images/maximize.png) no-repeat 0 0;}
+.message_floating_popup .head .title{ color: #0000FF; float: left; font-size: 13px; padding-top: 4px;}
+.message_floating_popup .head .title:hover{color: red;}
+.message_floating_popup .content{}
+.message_floating_popup .content table, .message_floating_popup .content td{border: none; padding: 0;}
+.message_floating_popup.minimize{height: 14px;}
+.message_floating_popup.minimize .title{padding-right: 10px;}
+.message_floating_popup.minimize .content{ display: none;}

@@ -1,0 +1,13 @@
+Plugins:
+- backupwordpress
+- breadcrumb-navxt
+- categories-images
+- contact-form-7
+- get-the-image
+- nextend-facebook-connect
+- order-up-custom-taxonomy-order
+- user-avatar
+- wp-pagenavi
+- wp-postviews
+- wp-postratings
+- wp-statistics

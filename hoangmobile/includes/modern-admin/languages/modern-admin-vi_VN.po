@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modern Admin v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-07-09 11:22:38+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Vietnamese\n"
+"X-Poedit-Country: VIET NAM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/admin_bar.php:21
+#: includes/dashboard_icons.php:26
+#: includes/dashboard_icons.php:45
+#: includes/login_screen.php:12
+#: includes/menu_icons.php:14
+#: includes/settings.php:22
+#@ modern-admin
+msgid "Settings Updated"
+msgstr "Cập nhật thành công"
+
+#: includes/menu_icons.php:26
+#@ modern-admin
+msgid "Menu Icons"
+msgstr ""
+
+#: includes/settings.php:49
+#@ modern-admin
+msgid "Choose color"
+msgstr "Chọn màu sắc"
+
+#: includes/settings.php:53
+#@ modern-admin
+msgid "Default"
+msgstr "Mặc định"
+
+#: includes/settings.php:58
+#@ modern-admin
+msgid "Red"
+msgstr "Đỏ"
+
+#: includes/settings.php:63
+#@ modern-admin
+msgid "Yellow"
+msgstr "Vàng"
+
+#: includes/settings.php:68
+#@ modern-admin
+msgid "Green"
+msgstr "Xanh lá"
+
+#: includes/settings.php:79
+#@ modern-admin
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: includes/settings.php:93
+#@ modern-admin
+msgid "Admin Logo Image"
+msgstr ""
+
+#: includes/settings.php:101
+#@ modern-admin
+msgid "Admin Logo Text"
+msgstr ""
+
+#: includes/login_screen.php:143
+#: includes/settings.php:108
+#@ modern-admin
+msgid "Logo URL"
+msgstr ""
+
+#: includes/login_screen.php:111
+#@ modern-admin
+msgid "Logo Image"
+msgstr ""
+
+#: includes/login_screen.php:122
+#@ modern-admin
+msgid "Logo Text"
+msgstr ""
+
+#: includes/login_screen.php:132
+#@ modern-admin
+msgid "Logo Title"
+msgstr ""
+
+#: includes/admin_bar.php:242
+#: includes/dashboard_icons.php:102
+#: includes/dashboard_icons.php:147
+#: includes/login_screen.php:200
+#: includes/menu_icons.php:63
+#: includes/settings.php:152
+#@ modern-admin
+msgid "Save Changes"
+msgstr "Lưu"
+
+#: includes/admin_bar.php:243
+#: includes/dashboard_icons.php:103
+#: includes/dashboard_icons.php:148
+#: includes/login_screen.php:201
+#: includes/menu_icons.php:64
+#: includes/settings.php:153
+#@ modern-admin
+msgid "Reset"
+msgstr "Xóa"
+
+#: modern-admin.php:374
+#@ modern-admin
+msgid "Powered by WordPress"
+msgstr ""
+
+#: modern-admin.php:385
+#@ modern-admin
+msgid "http://wordpress.org"
+msgstr ""
+
+#: includes/settings.php:42
+#@ modern-admin
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: includes/settings.php:45
+#@ modern-admin
+msgid "Color"
+msgstr "Màu sắc"
+
+#: includes/settings.php:89
+#@ modern-admin
+msgid "Admin logo"
+msgstr ""
+
+#: includes/settings.php:73
+#@ modern-admin
+msgid "Purple"
+msgstr "Đỏ tía"
+
+#: includes/dashboard_icons.php:108
+#@ modern-admin
+msgid "Note: If you could not see some dashboard widgets, please enter to Dashboard Home then return and set icons for them!"
+msgstr ""
+
+#: includes/admin_bar.php:28
+#: includes/dashboard_icons.php:52
+#: includes/dashboard_icons.php:59
+#: includes/login_screen.php:19
+#: includes/menu_icons.php:21
+#@ modern-admin
+msgid "Reset Ok"
+msgstr ""
+
+#: includes/login_screen.php:25
+#@ modern-admin
+msgid "Login Screen Setting"
+msgstr "Thiết lập màn hình đăng nhập"
+
+#: includes/login_screen.php:104
+#@ modern-admin
+msgid "Login Form"
+msgstr ""
+
+#: includes/login_screen.php:153
+#@ modern-admin
+msgid "Remove Remember Me"
+msgstr ""
+
+#: includes/login_screen.php:164
+#@ modern-admin
+msgid "Remove Lost Password Link"
+msgstr ""
+
+#: includes/login_screen.php:175
+#@ modern-admin
+msgid "Remove Back to.... Link"
+msgstr ""
+
+#: includes/login_screen.php:184
+#@ modern-admin
+msgid "Footer"
+msgstr ""
+
+#: includes/login_screen.php:191
+#: includes/settings.php:122
+#@ modern-admin
+msgid "Footer Text"
+msgstr ""
+
+#: includes/settings.php:9
+#@ modern-admin
+msgid "Reset successfully"
+msgstr ""
+
+#: includes/settings.php:29
+#@ modern-admin
+msgid "Reset ok"
+msgstr ""
+
+#: includes/settings.php:118
+#@ modern-admin
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/settings.php:129
+#@ modern-admin
+msgid "Footer Version"
+msgstr ""
+
+#: includes/settings.php:155
+#@ modern-admin
+msgid "Reset All Settings"
+msgstr "Xóa tất cả thiết lập"
+
+#: modern-admin.php:470
+#, php-format
+#@ modern-admin
+msgid "Howdy, %1$s"
+msgstr ""
+
+#: modern-admin.php:660
+#@ modern-admin
+msgid "Thank you for creating with <a href=\"http://wordpress.org/\">WordPress</a>."
+msgstr ""
+
+#: includes/login_screen.php:33
+#@ modern-admin
+msgid "Enable custom login screen"
+msgstr ""
+
+#: includes/login_screen.php:43
+#@ modern-admin
+msgid "Background"
+msgstr ""
+
+#: includes/login_screen.php:50
+#@ modern-admin
+msgid "Background Image"
+msgstr ""
+
+#: includes/login_screen.php:61
+#@ modern-admin
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/login_screen.php:77
+#@ modern-admin
+msgid "Background Color"
+msgstr ""
+
+#: includes/login_screen.php:86
+#@ modern-admin
+msgid "Background Position"
+msgstr ""
+
+#: includes/settings.php:137
+#@ modern-admin
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/settings.php:141
+#@ modern-admin
+msgid "Your CSS"
+msgstr ""
+
+#: includes/dashboard_icons.php:65
+#@ modern-admin
+msgid "Dashboard Settings"
+msgstr ""
+
+#: includes/dashboard_icons.php:81
+#@ modern-admin
+msgid "Title"
+msgstr ""
+
+#: includes/dashboard_icons.php:88
+#@ modern-admin
+msgid "Content"
+msgstr ""
+
+#: includes/dashboard_icons.php:89
+#@ modern-admin
+msgid "(Text or HTML content)"
+msgstr ""
+
